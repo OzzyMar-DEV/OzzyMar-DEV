@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @OzzyMar-DEV
+- 👀 I’m interested in Computer Science.
+- 🌱 I’m currently learning Java/C#.
