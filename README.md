@@ -13,6 +13,7 @@ The primary languages that I use (and are my personal favourites) are **C# & Jav
 - My **Java** experience comes from creating [SpigotMC](https://www.spigotmc.org/) [Minecraft](https://www.minecraft.net/) plugins.
 
 ### Pokémon
-I'm a very avid fan. Growing up I played the games and watched the show religiously and to this day it is still one of my favourite things. My favourite Pokémon of all time is **Ambipom**.
+I'm a very avid fan. Growing up I played the games and watched the show religiously and to this day it is still one of my favourite things. My favourite Pokémon of all time is **Hisuian Zoroark**.
 
-![Ambipom](https://img.pokemondb.net/sprites/black-white/anim/normal/ambipom.gif)
+![Hisuian Zoroark](https://img.pokemondb.net/sprites/home/normal/zoroark-hisuian.png)
+![Shiny Hisuian Zoroark](https://img.pokemondb.net/sprites/home/shiny/zoroark-hisuian.png)
