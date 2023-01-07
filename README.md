@@ -13,7 +13,9 @@ The primary languages that I use (and are my personal favourites) are **C# & Jav
 - My **Java** experience comes from creating [SpigotMC](https://www.spigotmc.org/) [Minecraft](https://www.minecraft.net/) plugins.
 
 ### Pokémon
-I'm a very avid fan. Growing up I played the games and watched the show religiously and to this day it is still one of my favourite things. My favourite Pokémon is **Hisuian Zoroark** but my favourite region will always be Kalos.
+I'm a very avid fan. Growing up I played the games and watched the show religiously and to this day it is still one of my favourite things. My favourite Pokémon is **Hisuian Zoroark** but my favourite region will always be Kalos of which my favourite Pokemon is **Greninja** despite how overrated it may be.
 
 ![Hisuian Zoroark](https://img.pokemondb.net/sprites/home/normal/zoroark-hisuian.png)
 ![Shiny Hisuian Zoroark](https://img.pokemondb.net/sprites/home/shiny/zoroark-hisuian.png)
+![Greninja](https://img.pokemondb.net/sprites/home/normal/greninja.png)
+![Shiny Greninja](https://img.pokemondb.net/sprites/home/shiny/greninja.png)
