@@ -11,9 +11,10 @@ The primary languages that I use (and are my personal favourites) are **C# & Jav
 - I have used **C#** in the [Unity](https://unity.com/) game engine to make apps/games in addition to just using pure C# to create automated tasks.
 - I have used **JavaScript** with various API's to create applications. This includes but is not limited to [Discord](https://discord.com/) bots & simple simulations.
 - My **Java** experience comes from creating [SpigotMC](https://www.spigotmc.org/) [Minecraft](https://www.minecraft.net/) plugins.
-
+<!--
 ### Pokémon
 I'm a very avid fan. Growing up I played the games and watched the show religiously and to this day it is still one of my favourite things. My favourite Pokémon is **Shiny Hisuian Zoroark** but my favourite region will always be Kalos of which my favourite Pokemon is **Ash Greninja** despite how overrated it may be due to its amazing design.
 
 ![Shiny Hisuian Zoroark](https://img.pokemondb.net/sprites/home/shiny/zoroark-hisuian.png)
 ![Ash Greninja](https://img.pokemondb.net/sprites/home/normal/greninja-ash.png)
+-->
